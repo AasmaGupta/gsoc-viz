@@ -1,5 +1,7 @@
 # GSOC Organizations Visualization (animint2) [EASY TASK]
 
+This visualization is inspired by exercises from the animint2 manual and demonstrates interactive filtering using `clickSelects` and `showSelected`.
+
 ## Live Demo
 https://AasmaGupta.github.io/gsoc-viz-deploy
 
