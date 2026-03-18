@@ -1,4 +1,4 @@
-# GSOC Organizations Visualization (animint2)
+# GSOC Organizations Visualization (animint2) [EASY TASK}
 
 ## Live Demo
 https://AasmaGupta.github.io/gsoc-viz-deploy
